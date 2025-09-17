@@ -1,0 +1,10 @@
+/* #email{color: blue;} */
+#linkedinLINK{color: blue;}
+#GitHubLINK{color: blue;}
+h1{text-align: center;  
+    border: solid ; ; border-radius: 9px; }
+h2{text-align: left;}
+/* img{float:right;} */
+#contactInfo{text-align: center;}
+img{width: 90px; height: 100px;}
+body{background-color: aquamarine; background-image:url(/* "./wit.jpg" */) ; background-size:  300px; background-repeat: no-repeat; background-position:top right; background-attachment: fixed;}
